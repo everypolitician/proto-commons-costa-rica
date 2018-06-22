@@ -1,3 +1,13 @@
 [
-
+  {
+    "comment": "Legislative Assembly of Costa Rica",
+    "house_item_id": "Q1386962",
+    "position_item_id": "Q21328617",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
 ]
