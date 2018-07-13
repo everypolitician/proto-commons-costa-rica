@@ -1,1 +1,6 @@
 WARNING: Position Member of the Legislative Assembly of Costa Rica (Q21328617) not in boundary associated_wikidata_positions
+WARNING: the district Alajuela (Q55387597) wasn't found in the boundary data for position Member of the Legislative Assembly of Costa Rica (Q21328617)
+WARNING: the district San José (Q55387603) wasn't found in the boundary data for position Member of the Legislative Assembly of Costa Rica (Q21328617)
+WARNING: the district Puntarenas (Q55387602) wasn't found in the boundary data for position Member of the Legislative Assembly of Costa Rica (Q21328617)
+WARNING: the district Cartago (Q55387598) wasn't found in the boundary data for position Member of the Legislative Assembly of Costa Rica (Q21328617)
+WARNING: the district San José (Q55387603) wasn't found in the boundary data for position Member of the Legislative Assembly of Costa Rica (Q21328617)
