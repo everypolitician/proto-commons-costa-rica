@@ -1,0 +1,274 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Carolina Hidalgo Herrera",
+        "lang:en": "Carolina Hidalgo Herrera"
+      },
+      "id": "Q52768193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52768193"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CarolinaHHPAC"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Wagner Alberto Jiménez Zúñiga",
+        "lang:en": "Wagner Alberto Jiménez Zúñiga"
+      },
+      "id": "Q55399795",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55399795"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/WagnerJimenezDiputado"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carmen Irene Chan Mora",
+        "lang:en": "Carmen Irene Chan Mora"
+      },
+      "id": "Q55399796",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55399796"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CarmenChanDiputada"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Heriberto Abarca Mora",
+        "lang:en": "Pablo Heriberto Abarca Mora"
+      },
+      "id": "Q55399797",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55399797"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/pabloheribertoabarca"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José María Villalta Florez-Estrada",
+        "lang:en": "José María Villalta Florez-Estrada"
+      },
+      "id": "Q5943676",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5943676"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/villaltaJM"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Asamblea Legislativa de Costa Rica",
+        "lang:en": "Legislative Assembly of Costa Rica"
+      },
+      "id": "Q1386962",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1386962"
+        }
+      ],
+      "area_id": "Q800",
+      "seat_counts": {
+        "Q21328617": "57"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Unidad Social Cristiana",
+        "lang:en": "Social Christian Unity Party"
+      },
+      "id": "Q1056879",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1056879"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Ciudadana",
+        "lang:en": "Citizens' Action Party"
+      },
+      "id": "Q2033977",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2033977"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Amplio",
+        "lang:en": "Broad Front"
+      },
+      "id": "Q403054",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q403054"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Restauración Nacional (Costa Rica)",
+        "lang:en": "National Restoration Party"
+      },
+      "id": "Q6106529",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6106529"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberación Nacional",
+        "lang:en": "National Liberation Party"
+      },
+      "id": "Q82591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82591"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52768193-551F5F2E-7895-4A7B-9EB5-55EB4BFFE2C9",
+      "person_id": "Q52768193",
+      "on_behalf_of_id": "Q2033977",
+      "organization_id": "Q1386962",
+      "area_id": "Q55387597",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21328617",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Costa Rica"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55399795-6083CE52-CDEB-4BA5-944D-7DCBAC95C735",
+      "person_id": "Q55399795",
+      "on_behalf_of_id": "Q82591",
+      "organization_id": "Q1386962",
+      "area_id": "Q55387603",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21328617",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Costa Rica"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55399796-FBA426DA-E8FC-4B78-BDD7-842C25B647E0",
+      "person_id": "Q55399796",
+      "on_behalf_of_id": "Q6106529",
+      "organization_id": "Q1386962",
+      "area_id": "Q55387602",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21328617",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Costa Rica"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55399797-DE0CB1DA-3462-4270-9F7A-2DD987C9B325",
+      "person_id": "Q55399797",
+      "on_behalf_of_id": "Q1056879",
+      "organization_id": "Q1386962",
+      "area_id": "Q55387598",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21328617",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Costa Rica"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5943676-8D8E18B6-1B3F-48DA-B56E-20EC7D917853",
+      "person_id": "Q5943676",
+      "on_behalf_of_id": "Q403054",
+      "organization_id": "Q1386962",
+      "area_id": "Q55387603",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21328617",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Costa Rica"
+      }
+    }
+  ]
+}
