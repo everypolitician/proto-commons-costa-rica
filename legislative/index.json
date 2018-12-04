@@ -2,11 +2,15 @@
   {
     "comment": "Legislative Assembly of Costa Rica",
     "house_item_id": "Q1386962",
+    "seat_count": "57",
+    "area_id": "Q800",
     "position_item_id": "Q21328617",
     "terms": [
       {
         "comment": "2018-2022 legislative period",
-        "term_item_id": "Q54855942"
+        "term_item_id": "Q54855942",
+        "start_date": "2018-05-01",
+        "end_date": "2022-04-30"
       }
     ]
   }
