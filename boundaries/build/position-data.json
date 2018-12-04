@@ -1,0 +1,20 @@
+[
+  {
+    "role_id": "Q21328617",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of Costa Rica"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:es": "parlamentario",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1386962",
+    "organization_name": {
+      "lang:es": "Asamblea Legislativa de Costa Rica",
+      "lang:en": "Legislative Assembly of Costa Rica"
+    }
+  }
+]
