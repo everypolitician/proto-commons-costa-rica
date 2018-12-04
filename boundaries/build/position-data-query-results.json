@@ -1,0 +1,85 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_es",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_es",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_es",
+      "position_superclass_en",
+      "body",
+      "body_es",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21328617"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Costa Rica"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q800"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Costa Rica"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Costa Rica"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "parlamentario"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1386962"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Asamblea Legislativa de Costa Rica"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Costa Rica"
+        }
+      }
+    ]
+  }
+}
