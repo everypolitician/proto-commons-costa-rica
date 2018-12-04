@@ -63,7 +63,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q55400291 .
+  ?statement pq:P2937 wd:Q54855942 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
